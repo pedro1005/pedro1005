@@ -1,4 +1,4 @@
-# Pedro Costa 👨‍💻
+# Pedro Costa
 
 ### Junior Software Developer | 42 Common Core Graduate
 
