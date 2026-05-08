@@ -76,15 +76,6 @@ A real-time multiplayer browser game developed as a final project.
 
 ---
 
-## 📈 GitHub Overview
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedro1005&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro1005&layout=compact&langs_count=8&theme=dark"/>
-</div>
-
----
-
 ## 📚 Currently Improving
 
 * Advanced React & Next.js
