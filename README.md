@@ -105,6 +105,3 @@ I’m looking for my **first role as a software developer**, where I can:
 * Learn from experienced engineers
 * Contribute to real-world applications
 
----
-
-⭐️ From https://github.com/pedro1005
